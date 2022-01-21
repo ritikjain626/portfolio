@@ -116,7 +116,7 @@ html {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: rgb(50, 50, 218);
+  color: red;
   font-weight: 500;
 }
 .home .home-content a {
@@ -369,6 +369,7 @@ footer {
 }
 
 /* same  */
+
 .skills .title {
   position: relative;
   text-align: center;
@@ -400,6 +401,10 @@ footer {
   transform: translateX(-50%);
 }
 /* contact me style  */
+.contact {
+  color: #fff;
+  background: #111;
+}
 .contact .contact-content .column {
   width: calc(50% - 30px);
 }
@@ -421,7 +426,7 @@ footer {
 }
 .contact .contact-content .row .info {
   margin-left: 30px;
-  color: black;
+  color: white;
 }
 .contact .contact-content .row .icons {
   margin-left: 30px;
@@ -434,7 +439,7 @@ footer {
   font-weight: 500;
 }
 .contact .contact-content .info .sub-title {
-  color: #333;
+  color: rgb(51, 195, 51);
 }
 .contact .right form .fields {
   display: flex;
@@ -509,7 +514,7 @@ footer {
   left: 50%;
   width: 180px;
   height: 3px;
-  background: #111;
+  background: #fff;
   transform: translateX(-50%);
 }
 .contact .title::after {
@@ -520,7 +525,7 @@ footer {
   font-size: 20px;
   color: rgb(54, 211, 54);
   padding: 5px;
-  background: #fff;
+  background: #111;
   transform: translateX(-50%);
 }
 
