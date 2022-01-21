@@ -30,12 +30,6 @@ $(document).ready(function(){
         backSpeed: 60,
         loop: true
     });
-    var typed = new Typed(".typing-2", {
-        strings : ["IIT'ian","Software engineer","Team-Player","Traveler"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
 
     var form = document.getElementById("my-form");
     

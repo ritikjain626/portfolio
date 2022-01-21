@@ -219,7 +219,7 @@ footer {
   transform: translateX(-50%);
 }
 .about .title::after {
-  content: "who I am";
+  content: "";
   position: absolute;
   bottom: -12px;
   left: 50%;
@@ -390,7 +390,7 @@ footer {
   transform: translateX(-50%);
 }
 .skills .title::after {
-  content: "what i know";
+  content: "";
   position: absolute;
   bottom: -12px;
   left: 50%;
@@ -518,7 +518,7 @@ footer {
   transform: translateX(-50%);
 }
 .contact .title::after {
-  content: "Get in touch";
+  content: "";
   position: absolute;
   bottom: -12px;
   left: 50%;
